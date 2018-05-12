@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4336
     wikipedia: http://en.wikipedia.org/wiki/Grace_Aguilar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36648#Home-InfluenceA-Tale-for-Mothers-and-Daughters
 gutenberg_issued: '2011-07-08'
 gutenberg_type: Text
 identifiers:
